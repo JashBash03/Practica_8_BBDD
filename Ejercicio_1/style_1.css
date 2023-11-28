@@ -1,0 +1,10 @@
+*{
+    font-family: monospace;
+    padding: 0;
+    margin: 10;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
